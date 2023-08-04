@@ -1,7 +1,7 @@
 # Diversity-and-Inclusion-Analysis
 
 
-I have create a dashboard on Power BI for HR at a Telecom company reflecting the KPIs pertaining to Diversity & inclusion in order to improve gender balance at the executive management level.
+I have created a dashboard on Power BI for HR at a Telecom company reflecting the KPIs pertaining to Diversity & inclusion in order to improve gender balance at the executive management level.
 
 𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐲
 ➔ Defined KPIs in hiring, promotion, performance and turnover and calculated them using DAX:
